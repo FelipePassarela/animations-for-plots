@@ -20,7 +20,7 @@ See more examples in the [examples directory](./examples).
 ## Installation
 
 ```bash
-pip install animations-for-plots
+pip install .
 ```
 
 ## Usage
